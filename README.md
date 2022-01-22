@@ -28,4 +28,6 @@ Tips:
 - 💁 I am a senior ios developer with 9 years experience 
 - 🧑‍🎓 I'm a Computer Science graduate 
 - 👨‍🍳 One of the founding member of [Synchsoft HQ](https://synchsofthq.com)
+- 👦 Pronouns : He/Him
+
 
