@@ -7,15 +7,21 @@ Falling Comet Animation for swift
 
 
 How to use
-
+## Getting Start
 Drage and drop CometAnimationScript to your project 
 
 use this code for comet 
 
+```swift
 CometAnimation.startAnimation(startPoint: CGPoint(x: 100, y: 0),
                                       endPoint: CGPoint(x: 0, y: 100),
                                       lineColor: UIColor.white.withAlphaComponent(0.2),
                                       cometColor: UIColor.white , parentLayer: view.layer)
+```
 
-Tip:
-- make line color .clear if you dont want lines 
+Tips:
+- make line color ```.clear``` if you dont want lines 
+- here ```view``` is your main view 
+
+## About Me 🙇🏻
+### I'm ios developer and a tech enthusiast! 
