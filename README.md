@@ -37,5 +37,8 @@ Tips:
 - ![124021](https://user-images.githubusercontent.com/17967553/150634452-a059f809-ce4c-4a14-9b80-9dad4f07aaac.png)[Twitter](https://twitter.com/saurabhanandsri)
 - ![Unknown](https://user-images.githubusercontent.com/17967553/150634491-92ded083-9666-4c2e-b4dd-dc24c6add6d3.png)[Linkdin](www.linkedin.com/in/saurabhanandsri)
 
+### Languages and tools
+![objective-c](https://user-images.githubusercontent.com/17967553/150634772-8d2039e5-74b1-4824-ae01-6a0609a8baa0.png)
+![1*S4__g3knEbuuE6qHyWIbNQ](https://user-images.githubusercontent.com/17967553/150634864-cdd49dab-f93c-4b95-860e-65c975a8fc47.png)
 
 
