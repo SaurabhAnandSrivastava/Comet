@@ -34,4 +34,8 @@ Tips:
 ### Connect with me 🤝
 - ![facebook](https://user-images.githubusercontent.com/17967553/150634248-83017cda-2ab5-4bbe-8768-43057b4661e9.png) [Facebook](https://www.facebook.com/saurabhanandsri)
 - ![4188690](https://user-images.githubusercontent.com/17967553/150634417-0d7bcfe4-a4a1-4391-b11f-a3b0a88b8f17.png)[Instagram](https://www.instagram.com/ios.swiftdev/)
+- ![124021](https://user-images.githubusercontent.com/17967553/150634452-a059f809-ce4c-4a14-9b80-9dad4f07aaac.png)[Twitter](https://twitter.com/saurabhanandsri)
+- ![Unknown](https://user-images.githubusercontent.com/17967553/150634491-92ded083-9666-4c2e-b4dd-dc24c6add6d3.png)[Linkdin](www.linkedin.com/in/saurabhanandsri)
+
+
 
