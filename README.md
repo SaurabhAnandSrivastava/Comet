@@ -29,5 +29,7 @@ Tips:
 - 🧑‍🎓 I'm a Computer Science graduate 
 - 👨‍🍳 One of the founding member of [Synchsoft HQ](https://synchsofthq.com)
 - 👦 Pronouns : He/Him
+- 🤩 Fun fact : I am a programmer I have no life 🤣🤣🤣🤣
 
+### Connect with me 🤝
 
