@@ -25,5 +25,7 @@ Tips:
 
 ## About Me 🙇🏻
 ### I'm ios developer and a tech enthusiast! 👨🏻‍💻
-- 💁 I am one of founders and senior ios developer with 9 years experience 
-- 🧑‍🎓 I'm Computer Science graduate 
+- 💁 I am a senior ios developer with 9 years experience 
+- 🧑‍🎓 I'm a Computer Science graduate 
+- 👨‍🍳 One of the founding member of [Synchsoft HQ](https://synchsofthq.com)
+
