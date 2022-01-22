@@ -1,1 +1,2 @@
 # Comet
+How to use
