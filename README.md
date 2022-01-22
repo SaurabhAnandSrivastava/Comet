@@ -26,3 +26,4 @@ Tips:
 ## About Me 🙇🏻
 ### I'm ios developer and a tech enthusiast! 👨🏻‍💻
 - 💁 I am one of founders and senior ios developer with 9 years experience 
+- 🧑‍🎓 I'm Computer Science graduate 
